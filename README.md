@@ -44,6 +44,14 @@ Programa desarrollado en **Java** para la simulación y manejo de sistemas de co
 
 ## 📸 Capturas de Pantalla
 
+<img width="885" height="585" alt="Image" src="https://github.com/user-attachments/assets/2672a603-a214-4f53-a5e0-50b6451ae196" />
+
+<img width="881" height="586" alt="Image" src="https://github.com/user-attachments/assets/b646eb0b-b541-4e13-975e-3e21997899bb" />
+
+<img width="431" height="232" alt="Image" src="https://github.com/user-attachments/assets/26f95228-7836-4d58-8689-2409e8cd981e" />
+
+<img width="881" height="587" alt="Image" src="https://github.com/user-attachments/assets/fb3d361b-f575-41cc-8d66-31e3aaffab90" />
+
 
 ---
 
@@ -83,7 +91,7 @@ Programa desarrollado en **Java** para la simulación y manejo de sistemas de co
 
 | Nombre | Rol | GitHub |
 | :--- | :--- | :--- |
-| **Francisco Fonseca** | Desarrollo y Documentación | [@UsuarioFrancisco](https://github.com/) |
+| **Francisco Fonseca** | Desarrollo y Documentación | [@SiraTop](https://github.com/Siratop) |
 | **Jesús Colmenares** | Desarrollo y Documentación | [@JesusShady](https://github.com/JesusShady) |
 
 ---
