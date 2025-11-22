@@ -43,7 +43,7 @@ Programa desarrollado en **Java** para la simulación y manejo de sistemas de co
 ---
 
 ## 📸 Capturas de Pantalla
-*(Opcional: Si subes imágenes o GIFs de tu programa funcionando, agrégalos aquí usando el formato: `![Descripcion](ruta-de-imagen.png)`)*
+
 
 ---
 
